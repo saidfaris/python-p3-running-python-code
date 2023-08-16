@@ -9,6 +9,7 @@ class TestAppPy:
     '''
     app.py
     '''
+    print("Hello world!")
     def test_app_py_exists(self):
         '''
         exists in lib directory
